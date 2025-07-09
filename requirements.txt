@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+stripe
+ultralytics
+easyocr
+fpdf
+pandas
